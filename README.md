@@ -2,7 +2,7 @@
 
 A simple subscription platform app with made Laravel.
 
-This is a simple, minimal and quickly developed simple subscription platform app made with Laravel following the project instructions. There are lots of possibilities to upgrade this app.
+This is a simple, minimal and quickly developed (in 2-3 hours) simple subscription platform app made with Laravel following the project instructions. There are lots of possibilities to upgrade this app.
 
 ## Project instructions
 
